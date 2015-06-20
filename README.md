@@ -108,3 +108,4 @@ col Colname
 80 fBodyBodyGyroJerkMag-std()
 81 fBodyBodyGyroJerkMag-meanFreq()
 # TidyDataProject 
+# TidyDataProject 
